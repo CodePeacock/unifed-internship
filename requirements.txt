@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+ipykernel
+xgboost
+joblib
+tensorflow-cpu
+keras
+nbformat
+keras-tuner
+tabulate
