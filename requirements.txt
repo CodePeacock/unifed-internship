@@ -11,3 +11,4 @@ keras
 nbformat
 keras-tuner
 tabulate
+kaggle
